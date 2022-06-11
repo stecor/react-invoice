@@ -46,6 +46,13 @@ const App = () => {
       Invoice: '2139',
       Date: '08/21/2021',
     },
+    {
+      id: '600',
+      Vendor: 'Hankook',
+      Amount: '$9,000',
+      Invoice: '2140',
+      Date: '08/21/2022',
+    },
   ]
 
   const [state, setState] = useState({
